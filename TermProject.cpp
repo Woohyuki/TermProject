@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Worl만암너유ㅏ머뉴아ㅓㅁ뉴아d!\n";
+    std::cout << "Hello!\n";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
